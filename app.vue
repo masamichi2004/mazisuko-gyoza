@@ -7,7 +7,9 @@
     </div>
 
     <div class="center-text">
-      <p>水餃子が1杯無料で食べられるクーポンです🎉この画面を店員に提示してください🙇</p>
+      <p>
+        水餃子が1杯無料で食べられるクーポンです🎉この画面を店員に提示してください🙇
+      </p>
     </div>
 
     <div class="dumplings bottom-line">
@@ -40,7 +42,7 @@ img {
   position: absolute;
   left: 0;
   transform: translateY(-50%);
-  animation: scroll infinite linear 30s;
+  animation: scroll infinite linear 20s;
 }
 
 .top-line {
@@ -53,7 +55,7 @@ img {
 
 .center-text {
   position: absolute;
-  top: 50%;
+  top: 60%;
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
